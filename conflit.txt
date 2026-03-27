@@ -1,2 +1,2 @@
 # Challenge 11 - Conflict
-Hello from main branch edited
+Resolved: keeping both main and feature changes
